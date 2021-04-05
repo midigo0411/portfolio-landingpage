@@ -3,6 +3,7 @@
 }
 
 .contact1{
+    
     padding-top: 300px;
     margin-left: 150px;
 }
@@ -19,9 +20,12 @@
 
 .form{
     display: flex;
-    float: right;
+    justify-content: flex-end;
     margin-right: 150px;
     color: tomato;
+    padding-top: -200px;
+    
+    
 }
 
 .form input{
