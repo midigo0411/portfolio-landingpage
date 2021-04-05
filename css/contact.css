@@ -4,7 +4,7 @@
 
 .contact1{
     
-    padding-top: 300px;
+    padding-top: 150px;
     margin-left: 150px;
 }
 
@@ -40,5 +40,18 @@
     height: 100px;
 }
 
+nav{
+    text-align: center;
+    color: white;
+}
 
+
+nav a{
+    color: white;
+    font-size: 20px;
+    display: inline-block;
+    position: relative;
+    margin: 20px;
+    outline: none;
+}
 

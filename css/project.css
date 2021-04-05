@@ -23,6 +23,20 @@ h1 {
     list-style-type: none;
 }
 
+nav{
+    text-align: center;
+    color: white;
+}
+
+
+nav a{
+    color: white;
+    font-size: 20px;
+    display: inline-block;
+    position: relative;
+    margin: 20px;
+    outline: none;
+}
 
 
 
