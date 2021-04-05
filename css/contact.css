@@ -1,0 +1,18 @@
+*{
+    background-color: #153956;
+}
+
+.contact1{
+    padding-top: 300px;
+    margin-left: 150px;
+}
+
+.contact1 p{
+    color: tomato;
+    font-size: 25px;
+}
+
+.contact1 p span{
+    color: white;
+    font-size: 20px;
+}
