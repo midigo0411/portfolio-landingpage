@@ -1,3 +1,28 @@
 *{
     background-color: #153956;
 }
+
+h1 {
+    padding-top: 60px;
+    color: white;
+}
+
+.projects li p {
+    color: white;
+    font-size: 20px;
+}
+
+.projects li img{
+    color: white;
+    border-radius: 50%;
+    height: 100px;
+    padding: 5px;
+}
+
+.projects ul {
+    list-style-type: none;
+}
+
+
+
+
