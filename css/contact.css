@@ -16,3 +16,25 @@
     color: white;
     font-size: 20px;
 }
+
+.form{
+    display: flex;
+    float: right;
+    margin-right: 150px;
+    color: tomato;
+}
+
+.form input{
+    background-color: teal;
+    width: 200px;
+    font-size: 25px;
+}
+
+.form textarea{
+    background-color: teal;
+    width: 400px;
+    height: 100px;
+}
+
+
+
