@@ -38,5 +38,7 @@ nav a{
     outline: none;
 }
 
-
-
+p{
+    color: white;
+    font-size: 20px;
+}
